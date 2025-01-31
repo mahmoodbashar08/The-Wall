@@ -1,4 +1,4 @@
- The Wall
+# The Wall
 
 The Wall is a unique social platform where users can post messages on a shared wall. Each user has an independent wall and can make posts by either purchasing 10 Telegram Stars or inviting 5 friends.
 
@@ -12,10 +12,10 @@ The Wall is a unique social platform where users can post messages on a shared w
 
 Here are some visuals of The Wall in action:
 
-![Screenshot 1](image1.png)
-![Screenshot 2](image2.png)
-![Screenshot 3](image3.png)
-![Screenshot 4](image4.png)
+<img src="image1.png" alt="Screenshot 1" width="300" />
+<img src="image2.png" alt="Screenshot 2" width="300" />
+<img src="image3.png" alt="Screenshot 3" width="300" />
+<img src="image4.png" alt="Screenshot 4" width="300" />
 
 ## Technologies Used
 - **Frontend:** React.js (TypeScript)
